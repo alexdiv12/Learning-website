@@ -1,2 +1,2 @@
 # Learning-website
-This a learning ebsite made using concepts of eb development 
+This a learning website made using concepts of web development 
